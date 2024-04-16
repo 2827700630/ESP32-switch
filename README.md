@@ -24,7 +24,7 @@
 - 远程开机
 - 网络控制台
 - 温度显示
-- 屏幕显示（可以显示中文，感谢https://github.com/StarCompute/tftziku）
+- 屏幕显示（可以显示中文，感谢https://github.com/StarCompute/tftziku
 
 ## 使用方法
 
